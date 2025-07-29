@@ -61,6 +61,7 @@ flutter:
     - assets/images/cat.jpg # ประกาศไฟล์เฉพาะ
     - assets/images/ # ประกาศทั้งโฟลเดอร์ (รวมไฟล์ทั้งหมดภายใน)
     # - assets/icons/ # ตัวอย่างอื่นของการประกาศโฟลเดอร์
+    # test
 
   # To add assets to your application, add an assets section, like this:
   # assets:
